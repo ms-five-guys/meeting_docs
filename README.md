@@ -1,2 +1,3 @@
 # meeting_docs
-This document summarizes the project meeting held in February.
+
+This repository serves as a record of the project meetings held between January and February, including discussion notes, action items, and supporting resources.
